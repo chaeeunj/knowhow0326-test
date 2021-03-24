@@ -1,0 +1,68 @@
+body{
+    background-image: url(halloween-background.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.wrapper{
+    margin: auto;
+    background-color: #e5e5e5;
+    width: 750px;
+    height: 800px;
+}
+
+.header{
+    background-image: url(halloween-header-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    text-align: center;
+    height: 350px;
+    
+}
+.header h1{
+    color: #c77dff;
+    margin-top: 10px;
+    padding: auto;
+
+}
+.header p{
+    
+    color: gainsboro;
+    background-color: black;
+    background-position: center;
+    text-align: center;
+    width: 420px;
+    height: 120px;
+    margin: auto;
+    margin-left: 160px;
+    padding: auto;
+}
+  
+.section {
+    background-color: #f8f9fa;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    height: 180px;
+}
+.section h2{
+    color: orangered;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+.section li{
+    padding-bottom: 10px;
+}
+.section li:hover{
+    color: orangered;
+}
+
+.footer{
+    background-color: black;
+    height: 35px;
+    text-align: center;
+    color: #c77dff;
+    padding-top: 5px;
+}
